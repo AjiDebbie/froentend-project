@@ -1,1 +1,1 @@
-# froentend-project
+# frontend-project
